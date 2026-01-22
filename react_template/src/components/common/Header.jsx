@@ -45,12 +45,13 @@ const Header = () => {
             }
             <ModeCtrl />
           </div>
-          <div className='lg:hidden flex justify-end'>
+          <div className='lg:hidden flex justify-end gap-2'>
             <button onClick={toggleMenu}>
               {
                 mobileOpen ? <X /> : <Menu />
               }
             </button>
+            <ModeCtrl/>
           </div>
         </div>
 
