@@ -1,3 +1,4 @@
+
 /* nav {
   position: sticky;
   top: 0;
@@ -39,25 +40,25 @@ nav .logo-wrapper .round-dot {
   background: indigo;
 }
 
-nav .logo-wrapper .logo-text {
+/* nav .logo-wrapper .logo-text {
   color: #fff;
   font-size: 1.125rem;
-}
+} */
 
 /* nav .nav-wrapper {
   display: flex;
   gap: 12px;
 } */
 
-nav .nav-wrapper a {
+/* nav .nav-wrapper a {
   color: #fff;
-}
+} */
 
-nav .info-wrapper {
+/* nav .info-wrapper {
   display: flex;
   align-items: center;
   gap: 8px;
-}
+} */
 
 /* nav .info-wrapper a {
   color: #fff;
